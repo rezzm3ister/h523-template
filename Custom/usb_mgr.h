@@ -6,6 +6,8 @@
 #include "usbd_cdc_if.h"
 #include "custom_main.h"
 
+#define MODB_ADDR 0x69
+
 void USB_CDC_RxHandler(uint8_t* rx_buf_cdc, uint32_t len);
 
 void usb_mainloop(void);

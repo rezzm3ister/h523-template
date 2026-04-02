@@ -31,4 +31,11 @@
 		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>linked_files/lib_modbus.c</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/libs/lib-modbus/lib_modbus.c</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
